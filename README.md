@@ -2,7 +2,7 @@
 
 **A simple, real-time chat application for classroom communication.**
 
-ClassChat is a Python-based server-client chat system designed to facilitate communication between classmates in a local network. Built by me and [@AlonHor](https://github.com/AlonHor), this project was created to provide a fun and practical way for us and our classmates to talk, collaborate, and share messages during class or group study sessions.
+ClassChat is a Python-based server-client chat system designed to facilitate communication between classmates in a local network. This project was created to provide a fun and practical way for us and our classmates to talk, collaborate, and share messages during class or group study sessions.
 
 ## Why We Made This
 
